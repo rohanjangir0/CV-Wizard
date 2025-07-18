@@ -23,7 +23,7 @@ Optional Backend: Node.js + MongoDB (for storing resumes)
 
 
 # Clone the repository
-git clone https://github.com/yourusername/cv-wizard.git
+git clone https://github.com/rohanjangir0/cv-wizard.git
 
 # Open index.html in your browser (for static version)
 # or run via local server if using React or Node
